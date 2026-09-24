@@ -2,8 +2,8 @@
 
 This is the main repository for all of the projects in the course.
 
--   [Course Link](https://www.udemy.com/course/50-projects-50-days)
--   [Course Info Website](https://50projects50days.com)
+-   [Course Link](https://www.traversymedia.com/50-Projects-In-50-Days)
+
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -57,6 +57,7 @@ This is the main repository for all of the projects in the course.
 | 48  | [Random Image Feed](https://github.com/bradtraversy/50projects50days/tree/master/random-image-generator)                         | [Live Demo](https://50projects50days.com/projects/random-image-feed/)             |
 | 49  | [Todo List](https://github.com/bradtraversy/50projects50days/tree/master/todo-list)                                         | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
 | 50  | [Insect Catch Game](https://github.com/bradtraversy/50projects50days/tree/master/insect-catch-game)                         | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
+| 51  | [Simple Timer](https://github.com/bradtraversy/50projects50days/tree/master/simple-timer)                                   | [Live Demo](https://50projects50days.com/projects/simple-timer/)             |
 
 **NOTE ON PULL REQUESTS**: All of these projects are part of the course. While I do appreciate people trying to make some things prettier or adding new features, we are only accepting pull requests and looking at issues for bug fixes so that the code stays inline with the course
 
@@ -76,11 +77,11 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+🔹 Software Disclaimer 🔹
 
+🛠️ Provided "As Is" – No guarantees, use at your own risk.
+📜 No Warranty – No promises on performance or fitness for any purpose.
+⚖️ No Liability – Authors aren't responsible for any damages or claims.
+🔄 Use Freely – But at your own discretion and responsibility.
+
+🚀 In short: Use it, but don’t blame us! 😃
